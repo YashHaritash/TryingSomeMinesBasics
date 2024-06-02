@@ -1,0 +1,5 @@
+.col {
+    color: black; /* Change text color to white to make it visible on black background */
+    cursor: pointer;
+    background-color: black;
+}
